@@ -1,6 +1,6 @@
 # Render Deployment Demo
 
-This repository contains sample application used for demonstration purposes in the deployment tutorials at [TurboTakeoff](https://turbotakeoff.io). The application are built with Python (FastAPI) for the backend and TypeScript/React for the frontend.
+This repository contains sample application used for demonstration purposes in the deployment tutorials at [https://turbotakeoff.io](https://turbotakeoff.io). The application is built with Python (FastAPI) for the backend and TypeScript/React for the frontend.
 
 ## Overview
 
@@ -14,7 +14,7 @@ The applications are dockerized and ready for deployment on [Render](https://ren
 To use these repositories for learning:
 
 1. Fork the repository.
-2. Follow the steps in the corresponding tutorial on [TurboTakeoff](https://turbotakeoff.io).
+2. Follow the steps in the corresponding tutorial on [https://turbotakeoff.io](https://turbotakeoff.io).
 
 ## Disclaimer
 
